@@ -1,0 +1,94 @@
+body{
+	background: linear-gradient(to right,#b3b3ff,#e6e6ff);
+}
+.container{
+
+	margin-top: 1%;
+	margin-bottom: 40px;
+	position: relative;
+}
+.navbar{
+	position: absolute;
+	top:10%;
+	width: 100%;
+
+}
+#bg{
+	width: 100%;
+
+}
+#row{
+	position: absolute;
+	top:140px;
+}
+#col-6{
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	margin-left: 30px;
+	color: white;
+	font-size: 1.3vw;
+}
+#bt{
+	width:40%;
+	height: 10%;
+	font-size: 1.5vw;
+	margin-top:7%;
+	margin: auto;
+	padding: 1px;
+}
+
+#pro{
+	margin-top: 40px;
+	margin-left: 20px;
+  	width: 80%;
+
+}
+
+hr.division {
+border-top: 2px solid black;
+}
+.lowerbody{
+	width: 60%;
+	font-family:  'Montserrat', sans-serif;
+	font-weight: 200;
+	font-size: 1.4vw;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
+#pro1{
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+}
+.contact{
+	margin-bottom: 10px;
+}
+.head{
+	text-transform: uppercase;
+	font-size: 2vw;
+	color: black;
+	font-weight: 300;
+}
+.details{
+	display: flex;
+}
+#profile{
+	width: 40%;
+}
+.contact{
+	align-items: center;
+	color: black;
+
+}
+footer{
+}
+#foot {
+	background: #3F729B;
+}
+#copyright{
+	background: #1C2331;
+}
+
+
